@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+    <link href="css/insAcount.css" rel="stylesheet" />
+    <link href="css/insAccount2.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/aaa.css">
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery-cookies/jquery.cookie.js"></script>
+    <script src="/js/getMyPic.js" type="module"></script>
+    <script src="/js/getUser.js" type="module"></script>
+    <script src="/js/PicUploadM.js" type="module"></script>
+    <style>
+        
+ 
+    </style>
+</head>
+<body>
+    <nav class="gW4DF"><div class="-ZQoH"><header class="_9ezyW"><div class="b5itu navitem"><div class="mXkkY HOQT4"></div><h1 class="K3Sf1" id="username"></h1><div class="mXkkY KDuQp"></div></div></header></div></nav>
+
+`<div class="v9tJq VfzDr">
+    <div class="vtbgv " style="margin-top:5%;margin-left:15%">
+        <div class="XjzKX">
+            <div class="RR-M- " role="button" tabindex="0">
+                <canvas class="CfWVH" style="position: absolute; top: -9px;  width: 68px; height: 68px;"></canvas>
+                <span class="_2dbep " role="link" tabindex="0" style="width: 100px; height: 100px; margin-left: 30%">
+                    <img class="_6q-tv" src="/image/11856650_1617460148528344_1928922290_a.png">
+                </span>
+            </div>
+        </div>
+        <section class="zwlfE" style="margin-top:5%">
+
+
+
+            <hr>
+            <ul class="k9GMp">
+                <li class=" " style="margin-left:5%">年龄: <span id="age"></span> </span></li>
+                <li class="" style="margin-left:20px">性别: <span id="gender"></span>  </span></li>
+                <li class=" " style="margin-left:20px"><span id="like4me"></span>个收到的赞</li>
+            </ul>
+        </section>
+    </div>
+    <div class="fx7hk">
+        <a class="_9VEo1" val="1" id="public">
+            <span class="smsjF">
+                <div class="coreSpriteDesktopPhotoGridActive"></div><span class="PJXu4">公开图片</span>
+            </span>
+        </a><a class="_9VEo1" val="2" id="private">
+            <span class="qzihg">
+                <div class="coreSpriteDesktopProfileTagged"></div><span class="PJXu4">私有图片</span>
+            </span>
+        </a>
+    </div>
+    <div class=" _2z6nI">
+        <article class="FyNDV">
+            <div>
+                <div style="flex-direction: column; padding-bottom: 0px; padding-top: 0px;">
+                    <div class="Nnq7C weEfm">
+
+                    </div>
+                    <div class="Nnq7C weEfm">
+                        <div class="row" id="picFrame" style="margin:30px;">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </div>
+    <div style="height: 50px; width: auto;"></div>
+    <div class="KGiwt">
+        <div class="A8wCM">
+            <div class="BvyAW">
+                <div class="q02Nz">
+                    <a class="_0TPg" href="/mobile">
+                        <span class="glyphsSpriteHome__outline__24__grey_9 u-__7"
+                              aria-label="首页"></span>
+                    </a>
+                </div>
+                <div class="q02Nz">
+                    <a class="_0TPg" href="/search">
+                        <span class="glyphsSpriteSearch__outline__24__grey_9 u-__7"
+                              aria-label="搜索与发现"></span>
+                    </a>
+                </div>
+                <div class="q02Nz _0TPg" role="menuitem" tabindex="0">
+                        <input type="file" id="input_file" style="display:none">
+                        <a class="_0TPg filebtn">
+                            <span class="glyphsSpriteNew_post__outline__24__grey_9 u-__7" aria-label="添加"></span>
+                        </a>
+    
+    
+                    </div>
+                <div class="q02Nz">
+                    <a class="_0TPg " href="/activity">
+                        <span class="glyphsSpriteHeart__outline__24__grey_9 u-__7"
+                              aria-label="动态"></span>
+                    </a>
+                </div>
+                <div class="q02Nz">
+                    <a class="_0TPg">
+                        <span class="glyphsSpriteUser__filled__24__grey_9 u-__7"
+                              aria-label="个人主页"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function isMobile() {
+            if (navigator.userAgent.match(/Android/i)
+                || navigator.userAgent.match(/iPhone/i)
+                || navigator.userAgent.match(/iPad/i)
+                || navigator.userAgent.match(/Windows Phone/i))
+                return true;
+            return false;
+        }
+
+        if (!isMobile()) {
+            window.location = "/user";
+        }
+    </script>
+</body>
+</html>

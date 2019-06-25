@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap-4.1.3-dist/css/bootstrap.min.css">
+    <script src="lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery-cookies/jquery.cookie.js"></script>
+    <script src="lib/bootstrap-4.1.3-dist/js/bootstrap.min.js"></script>
+
+    <script src="/js/PicUploadM.js" type="module"></script>
+    <script src="/js/toDesktop.js" type="module"></script>
+    <script src="/js/TopPicDisPlay.js" type="module"></script>
+    <script src="/js/picDiplayM.js" type="module"></script>
+
+    <link rel="stylesheet" href="/css/aaa.css">
+    <style>
+        .carousel-inner img {
+                width: 100%;
+                height: 100%;
+            }
+    
+            .TopPic {
+                margin-top: 10px;
+            }
+        </style>
+</head>
+
+<body>
+    <nav class="gW4DF">
+        <div class="-ZQoH navitem">
+            <header class="_9ezyW">
+                <div class="b5itu navitem">
+                    <!-- <div class="mXkkY HOQT4"><button class="mTGkH"><span class="glyphsSpriteCamera__outline__24__grey_9 u-__7"
+                                aria-label=></span></button></div> -->
+                    <h1>
+                        <a class="rDZ30" href="#">
+                            <span>
+                                <img class="myLogo" src="../image/a179443376518a5de9a4f8e9d5c2b06d.png" alt="">
+                            </span>
+                        </a>
+                    </h1>
+                    <div class="mXkkY KDuQp filebtn navitem">
+                        <button class="mTGkH">
+                            <span class="glyphsSpriteCamera__outline__24__grey_9 u-__7" aria-label="新快拍"></span>
+                        </button>
+                    </div>
+                </div>
+            </header>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row TopPic">
+            <div class="col-12">
+                <div id="demo" class="carousel slide" data-ride="carousel">
+
+                    <!-- 指示符 -->
+                    <ul class="carousel-indicators">
+                        <li data-target="#demo" data-slide-to="0" class="active"></li>
+                        <li data-target="#demo" data-slide-to="1"></li>
+                        <li data-target="#demo" data-slide-to="2"></li>
+                    </ul>
+
+                    <!-- 轮播图片 -->
+                    <div class="carousel-inner" id="topPic">
+
+                    </div>
+
+                    <!-- 左右切换按钮 -->
+                    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#demo" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+
+    <hr>
+    <h2 style="margin-left:10%">今日新图</h2>
+    <div class=" picFrame" style="display:flex;flex-wrap: wrap">
+        
+        <div style="flex:50%"></div>
+        
+    </div>
+    <div style="height: 50px; width: auto;"></div>
+    <div class="KGiwt">
+        <div class="A8wCM">
+            <div class="BvyAW">
+                <div class="q02Nz">
+                    <a class="_0TPg">
+                        <span class="glyphsSpriteHome__filled__24__grey_9 u-__7" aria-label="首页"></span>
+                    </a>
+                </div>
+                <div class="q02Nz">
+                    <a class="_0TPg" href="/search">
+                        <span class="glyphsSpriteSearch__outline__24__grey_9 u-__7" aria-label="搜索与发现"></span>
+                    </a>
+                </div>
+                <div class="q02Nz _0TPg" role="menuitem" tabindex="0">
+                    <input type="file" id="input_file" style="display:none">
+                    <a class="_0TPg filebtn">
+                        <span class="glyphsSpriteNew_post__outline__24__grey_9 u-__7" aria-label="添加"></span>
+                    </a>
+
+
+                </div>
+                <div class="q02Nz">
+                    <a class="_0TPg " href="/activity">
+                        <span class="glyphsSpriteHeart__outline__24__grey_9 u-__7" aria-label="动态"></span>
+                    </a>
+                </div>
+                <div class="q02Nz">
+                    <a class="_0TPg" href="/account">
+                        <span class="glyphsSpriteUser__outline__24__grey_9 u-__7" aria-label="个人主页"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

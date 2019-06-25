@@ -1,0 +1,275 @@
+.KGiwt {
+    bottom: env(safe-area-inset-bottom);
+}
+
+.KGiwt {
+    background-color: #fff;
+    border: 0;
+    bottom: 0;
+    height: 44px;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 100;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    z-index: 10;
+}
+
+.KGiwt::before {
+    background: rgba(0,0,0,.0975);
+    content: '';
+    height: 1px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: -1px;
+}
+
+.KGiwt::after {
+    background-color: #fff;
+    content: '';
+    height: env(safe-area-inset-bottom);
+    left: 0;
+    position: absolute;
+    top: 44px;
+    right: 0;
+}
+
+.A8wCM, ._Cwuq {
+    height: 100%;
+}
+
+.BvyAW {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    height: 100%;
+}
+
+.q02Nz {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+
+._0TPg, .q02Nz {
+    height: 100%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+
+.u-__7 {
+    display: block;
+}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
+.glyphsSpriteHome__filled__24__grey_9 {
+    background-size: 282px 273px;
+    background-position: -75px -199px;
+}}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi){
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/095009cdab40.png);
+}}
+
+.glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9 {
+    background-repeat: no-repeat;
+    background-position: -231px -156px;
+    height: 24px;
+    width: 24px;
+}
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/7f5bab945363.png);
+}
+
+
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteSearch, .glyphsSpriteSearch__outline__24__grey_9 {
+    background-size: 282px 273px;
+    background-position: -258px -150px;
+}}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/095009cdab40.png);
+}}
+
+.glyphsSpriteSearch, .glyphsSpriteSearch__outline__24__grey_9 {
+    background-repeat: no-repeat;
+    background-position: -283px 0;
+    height: 24px;
+    width: 24px;
+}
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/7f5bab945363.png);
+}
+
+
+
+
+
+._0TPg {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.q02Nz {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    /* flex-grow: 1; */
+}
+
+._0TPg, .q02Nz {
+    height: 100%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.u-__7 {
+    display: block;
+}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteNew_post__outline__24__grey_9 {
+    background-size: 282px 273px;
+    background-position: -75px -224px;
+}}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/095009cdab40.png);
+}}
+
+.glyphsSpriteNew_post__outline__24__grey_9 {
+    background-position: -257px -156px;
+}
+
+.glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9 {
+    background-repeat: no-repeat;
+    background-position: -257px -130px;
+    height: 24px;
+    width: 24px;
+}
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/7f5bab945363.png);
+}
+
+
+
+.u-__7 {
+    display: block;
+}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteHeart__outline__24__grey_9 {
+    background-size: 282px 273px;
+    background-position: -50px -199px;
+}}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/095009cdab40.png);
+}}
+
+.glyphsSpriteHeart__outline__24__grey_9 {
+    background-position: -231px -130px;
+}
+
+.glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9 {
+    background-repeat: no-repeat;
+    background-position: -231px -104px;
+    height: 24px;
+    width: 24px;
+}
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/7f5bab945363.png);
+}
+
+
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteUser__outline__24__grey_9 {
+    background-size: 282px 273px;
+    background-position: -208px -75px;
+}}
+@media not all, (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)
+{
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/095009cdab40.png);
+}}
+
+.glyphsSpriteUser__outline__24__grey_9 {
+    background-position: -182px -203px;
+}
+
+.glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9 {
+    background-repeat: no-repeat;
+    background-position: -231px 0;
+    height: 24px;
+    width: 24px;
+}
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/7f5bab945363.png);
+}
+
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9, .glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile, .glyphsSpriteApp_instagram__outline__24__grey_9, .glyphsSpriteApp_messenger__outline__24__grey_9, .glyphsSpriteApp_twitter__outline__24__grey_9, .glyphsSpriteApp_whatsapp__outline__24__grey_9, .glyphsSpriteCall__outline__24__grey_9, .glyphsSpriteCamera__outline__24__grey_9, .glyphsSpriteChevron_left__outline__24__grey_9, .glyphsSpriteChevron_right__outline__24__grey_5, .glyphsSpriteCircle__outline__24__grey_2, .glyphsSpriteCircle_add__outline__24__grey_5, .glyphsSpriteCircle_add__outline__24__grey_9, .glyphsSpriteCircle_check__filled__24__blue_5, .glyphsSpriteComment__outline__24__grey_9, .glyphsSpriteComment_like, .glyphsSpriteComment_like_active, .glyphsSpriteContact_import, .glyphsSpriteContact_import_sm, .glyphsSpriteDelete__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_0, .glyphsSpriteDirect__outline__24__grey_9, .glyphsSpriteDirect_glyph_heart, .glyphsSpriteFB_Logo, .glyphsSpriteFacebook__filled__24__fb_connect_blue, .glyphsSpriteFacebook__outline__24__grey_9, .glyphsSpriteForward__outline__24__grey_9, .glyphsSpriteGlyph_circle_star, .glyphsSpriteGlyph_heart_media, .glyphsSpriteGlyph_heart_media_outline, .glyphsSpriteGlyph_volume_off, .glyphsSpriteGrey_Close, .glyphsSpriteHashtag__outline__24__grey_9, .glyphsSpriteHeart__filled__24__grey_9, .glyphsSpriteHeart__filled__24__red_5, .glyphsSpriteHeart__outline__24__grey_9, .glyphsSpriteHome__filled__24__grey_9, .glyphsSpriteHome__outline__24__grey_9, .glyphsSpriteIG_Lite_Direct_Variant_01, .glyphsSpriteIgtv__outline__24__blue_5, .glyphsSpriteIgtv__outline__24__grey_5, .glyphsSpriteInfo__outline__24__grey_9, .glyphsSpriteInput_clear, .glyphsSpriteLink__outline__24__grey_9, .glyphsSpriteLite_app_icon, .glyphsSpriteLocation__outline__24__grey_9, .glyphsSpriteLock__outline__24__grey_9, .glyphsSpriteLogged_Out_QP_Glyph, .glyphsSpriteMail__outline__24__grey_9, .glyphsSpriteMobile_nav_type_logo, .glyphsSpriteMore_horizontal__filled__24__grey_0, .glyphsSpriteMore_horizontal__outline__24__grey_5, .glyphsSpriteMore_horizontal__outline__24__grey_9, .glyphsSpriteNew_post__outline__24__grey_9, .glyphsSpritePaging_chevron, .glyphsSpritePhoto__outline__24__grey_9, .glyphsSpritePhoto_grid__outline__24__blue_5, .glyphsSpritePhoto_grid__outline__24__grey_5, .glyphsSpritePhoto_list__outline__24__blue_5, .glyphsSpritePhoto_list__outline__24__grey_5, .glyphsSpriteSafari__outline__24__grey_9, .glyphsSpriteSave__filled__24__grey_9, .glyphsSpriteSave__outline__24__blue_5, .glyphsSpriteSave__outline__24__grey_5, .glyphsSpriteSave__outline__24__grey_9, .glyphsSpriteSearch, .glyphsSpriteSearch__filled__24__grey_9, .glyphsSpriteSearch__outline__24__grey_9, .glyphsSpriteSettings__outline__24__grey_9, .glyphsSpriteShare__outline__24__grey_9, .glyphsSpriteTag_up__outline__24__blue_5, .glyphsSpriteTag_up__outline__24__grey_5, .glyphsSpriteUser__filled__24__grey_0, .glyphsSpriteUser__filled__24__grey_9, .glyphsSpriteUser__outline__24__grey_9, .glyphsSpriteUser_follow__outline__24__grey_9, .glyphsSpriteUsers__outline__24__grey_9, .glyphsSpriteVerified_small, .glyphsSpriteVideo_chat__outline__24__grey_9, .glyphsSpriteWhatsapp__outline__24__grey_9, .glyphsSpriteWhite_Close, .glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../image/7f5bab945363.png)
+}
+
+.glyphsSpriteAdd__outline__24__blue_5, .glyphsSpriteAdd__outline__24__grey_9 {
+    background-repeat: no-repeat;
+    background-position: -78px -177px;
+    height: 24px;
+    width: 24px
+}
+
+.glyphsSpriteAdd__outline__24__grey_9 {
+    background-position: -52px -229px
+}
+
+.glyphsSpriteApp_Icon, .glyphsSpriteApp_Icon_Mobile {
+    background-repeat: no-repeat;
+    background-position: -127px 0;
+    height: 60px;
+    width: 60px
+}
+
+
+
+.glyphsSpriteApp_Icon {
+    background-position: -189px -40px;
+    height: 30px;
+    width: 30px
+}

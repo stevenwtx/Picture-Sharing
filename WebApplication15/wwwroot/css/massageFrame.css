@@ -1,0 +1,20 @@
+
+#messageFrame, #messageFrame li{
+    overflow: hidden;
+}
+
+#messageFrame li {
+    line-height: 1.5;
+    border-bottom: 1px solid #e2e2e2;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+#messageFrame li, .po-hd {
+    position: relative;
+}
+#messageFrame li, .cmt-wrap, .r, .time {
+    clear: both;
+}
+#messageFrame, #messageFrame li, .po-hd, .post {
+    overflow: hidden;
+}
